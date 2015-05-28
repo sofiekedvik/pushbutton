@@ -11,8 +11,13 @@ var buttons = document.getElementById('go').addEventListener('click', function()
     changeBox.style.display="block";
     buttonOne.style.background="#81C88C";
     buttonOne.style.border="1px solid #4C975A";
-console.log(changeBox);
 
-    console.log(buttonOne);
+    function myfunction (){
+return 9 * 9;
+}
+
+    function myFunction (){
+        return 9 * 9;
+    }
 
 });
