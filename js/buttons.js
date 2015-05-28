@@ -12,10 +12,10 @@ var buttons = document.getElementById('go').addEventListener('click', function()
     buttonOne.style.background="#81C88C";
     buttonOne.style.border="1px solid #4C975A";
 
+
     function myfunction(){
         return 7 * 7 ;
     }
-
 
 
 
