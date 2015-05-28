@@ -4,13 +4,41 @@ body {
     margin: 0 auto;
     color: grey;
     font-family: helvetica, sans-serif;
+    text-align:center;
+}
+
+header {
+margin-top:50px;
+}
+
+header p {
+    font-style: italic;
+}
+
+article {
+width: 600px;
+height: 400px;
+margin: 0 auto;
+}
+
+#box {
+margin: 0 auto;
+margin-top:100px;
+width: 300px;
+padding:40px;
+text-align:center;
+background: white;
+border: 1px solid #cacaca;
+color:#81C88C;
+display:none;
 }
 
 button {
-    background: #c8c8c8;
-    border: 1px solid #a8a8a8;
-    color: grey;
-    padding: 5px;
+    margin-top:40px;
+    background: #ff4a46;
+    border: 1px solid #962a29;
+    color: white;
+    padding: 15px;
     font-size:20px;
 }
 
